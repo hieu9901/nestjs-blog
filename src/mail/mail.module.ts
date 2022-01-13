@@ -15,8 +15,8 @@ import { BullModule } from '@nestjs/bull'
                     secure: false,
                     tls: { ciphers: 'SSLv3', }, // gmail
                     auth: {
-                        user: 'hieu.tranminh.vt.vp@gmail.com',
-                        pass: 'matkhau9xno2',
+                        user: 'user@gmail.com',
+                        pass: 'xxxx',
                     },
                 },
                 defaults: {
